@@ -1,4 +1,5 @@
 
+[![CI](https://github.com/smilank3/htmldom/workflows/CI/badge.svg?branch=main)](https://github.com/smilank3/htmldom/actions/workflows/ci.yml)
 # htmldom
 A simple C++ HTML Generator library. Document Object Model(DOM).
 ## Example 
